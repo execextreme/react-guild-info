@@ -1,7 +1,7 @@
 # React Guild Info
 
 ## What is this?
-A small app that lets you look up any guild and get a terse set of information about its level 110 players
+A small app that lets you look up any US guild and get a terse set of information about its level 110 players
 
 ## What information does this show?
 - Level 110 players
