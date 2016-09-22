@@ -276,7 +276,7 @@ var Guild = React.createClass({
                     fields: 'items,professions',
                 }, function (res) {
                     // code and status can be set when errors occur
-                    if (!res.code && !res.status) {
+                    if (res && res.items && res.professions) {
                         member.character.ilvl = res.items.averageItemLevelEquipped || res.items.averageItemLevel;
                         member.character.professions = res.professions;
                     }
