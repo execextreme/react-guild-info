@@ -20,8 +20,8 @@ Clone the repo to your computer and move to the folder with your favorite termin
 Point your browser to localhost:3000
 
 ## What technologies does this use?
-ReactJS
-MomentJS
-Font Awesome
-Bootstrap
-Battle.net API
+- ReactJS
+- MomentJS
+- Font Awesome
+- Bootstrap
+- Battle.net API
