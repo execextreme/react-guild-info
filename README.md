@@ -12,6 +12,8 @@ A small app that lets you look up any US guild and get a terse set of informatio
 - Guild news feed
 
 ## How do I run this?
+*Note:* You will have to apply for a Battle.net API key before you can run this locally (https://dev.battle.net)
+
 Clone the repo to your computer and move to the folder with your favorite terminal emulator
 
      npm install -g tiny-server
